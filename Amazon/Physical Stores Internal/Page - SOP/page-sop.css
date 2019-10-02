@@ -21,6 +21,8 @@ header#header .progress-container .progress .bg-success,
 	background-color:#008296 !important;
 }
 
+.card{width:35% !important;}
+
 .next-page button.btn.btn-primary.next-btn,
 	.next-page button.btn.btn-primary {
 	background-color:#82d8e3 !important;
@@ -42,3 +44,5 @@ header#header .progress-container .progress .bg-success,
 .index-progress x-pie .wedge.slice_1 {
     fill: #008296;
 }
+
+.progress-bar.bg-success {background-color:  rgb(0, 130, 150) !important;}

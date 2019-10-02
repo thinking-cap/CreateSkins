@@ -10,6 +10,8 @@ header#header .progress-container {
 	top: 55px;
 }
 
+.intro{margin-top:30px;}
+
 header#header .progress-container,
 	header#header .progress-container .progress {
 		background-color:transparent;
@@ -20,6 +22,8 @@ header#header .progress-container .progress .bg-success,
 	.card .card-body .progress .bg-success {
 	background-color:#008296 !important;
 }
+
+.page-item.index{width:33.33% !important;}
 
 .next-page button.btn.btn-primary.next-btn,
 	.next-page button.btn.btn-primary {
@@ -123,6 +127,10 @@ div.page-item.index .card > .card-body .btn {
 
 div.page-item.index .card > .card-body > .row > .progress {
     display:none; visibility:hidden;
+}
+
+.progress-bar.bg-success {
+    background-color: rgb(0, 130, 150) !important;
 }
 
 
