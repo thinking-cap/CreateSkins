@@ -23,7 +23,7 @@ header#header .progress-container .progress .bg-success,
 	background-color:#008296 !important;
 }
 
-.page-item.index{width:33.33% !important;}
+.page-item.index{width:33.33% !important;float:left;}
 
 .next-page button.btn.btn-primary.next-btn,
 	.next-page button.btn.btn-primary {
