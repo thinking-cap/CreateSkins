@@ -1,0 +1,73 @@
+
+
+.tc.extend.Runbook_Steps {
+	display:block; visibility: visible;
+	font-family: 'AmazonEmber', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding-left: 0px;
+}
+
+.tc.extend.Runbook_Steps .tc.extend.Step {
+	display:list-item; list-style-type:decimal; 
+	    margin-left: 1em;
+}
+
+
+.tc.extend.Heading {
+	color: #008296;
+    font-size: 42px;
+    margin-bottom: 30px;
+    font-family: 'AmazonEmberLight', "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.3em;
+    margin:2em 0 1em 0;
+}
+.tc.extend.Subheading{
+	color: #008296;
+    font-size: 42px;
+    margin-bottom: 30px;
+    font-family: 'AmazonEmberLight', "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.3em;
+}
+
+.tc.extend.Paragraph {
+	display:block;
+}
+
+.tc.extend.Ordered_List {
+	margin: 1em 0;
+}
+
+.tc.extend.tc.Callout {
+	display: block;
+    width: 100%;
+    border-radius: 0px;
+    font-size: 1em;
+    line-height: 1.4em;
+    background-color: #ffffff;
+    font-weight: 300;
+    float: none;
+    margin: 0px 0px 2em 0px;
+}
+
+.tc.extend.tc.Callout .Bold {
+	color: #cc0c39;
+}
+
+.tc.extend.a,
+	a.Weblink {
+    color: #cb25bf;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-bottom: 2px solid #cb25bf;
+}
+
+.tc.extend.a:hover,
+	a.Weblink:hover {
+    border-bottom: none 0px;
+}
+
+
+
+
+
